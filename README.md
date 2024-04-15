@@ -78,7 +78,7 @@ Delivered to the U.S. Government with Unlimited Rights, as defined in DFARS Part
 The installation process includes several components:
 + [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
 + [Making History Expansion](https://store.privatedivision.com/game/kerbal-space-program-making-history-expansion-official-pc)
-+ [Mission Save Files](https://github.com/mit-ll/spacegym-kspdg/tree/master/ksp_saves/missions)
++ [Mission Save Files](https://github.com/mit-ll/spacegym-kspdg/tree/main/ksp_files)
 + [kRPC Server](https://krpc.github.io/krpc/getting-started.html#the-server-plugin)
 + [PhysicsRangeExtender](https://github.com/jrodrigv/PhysicsRangeExtender)
 + [`kspdg` python package](https://github.com/mit-ll/spacegym-kspdg/tree/master/src/kspdg)
